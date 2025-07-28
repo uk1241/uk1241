@@ -42,7 +42,7 @@ Used Flutter for cross-platform development
 
 ## 📈 GitHub Stats
 
-![Unnikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnivr011&show_icons=true&theme=swift)
+![Unnikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uk121&show_icons=true&theme=swift)
 
 ---
 
