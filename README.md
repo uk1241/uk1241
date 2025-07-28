@@ -1,3 +1,15 @@
+<p align="center">
+  <picture>
+    <!-- Dark mode animation -->
+    <source srcset="https://raw.githubusercontent.com/uk1241/uk1241/main/assets/mobile-dev-dark.gif" media="(prefers-color-scheme: dark)" />
+    <!-- Light mode animation -->
+    <source srcset="https://raw.githubusercontent.com/uk1241/uk1241/main/assets/mobile-dev-light.gif" media="(prefers-color-scheme: light)" />
+    <!-- Fallback -->
+    <img src="https://raw.githubusercontent.com/uk1241/uk1241/main/assets/mobile-dev-light.gif" alt="Mobile Developer Animation" width="280" />
+  </picture>
+</p>
+
+
 <h1 align="center">Hi, I'm Unnikrishnan 👋</h1>
 
 <p align="center">
