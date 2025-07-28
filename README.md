@@ -1,16 +1,5 @@
-<p align="center">
-  <picture>
-    <!-- Dark mode animation -->
-    <source srcset="https://raw.githubusercontent.com/uk1241/uk1241/main/assets/mobile-dev-dark.gif" media="(prefers-color-scheme: dark)" />
-    <!-- Light mode animation -->
-    <source srcset="https://raw.githubusercontent.com/uk1241/uk1241/main/assets/mobile-dev-light.gif" media="(prefers-color-scheme: light)" />
-    <!-- Fallback -->
-    <img src="https://raw.githubusercontent.com/uk1241/uk1241/main/assets/mobile-dev-light.gif" alt="Mobile Developer Animation" width="280" />
-  </picture>
-</p>
 
-
-<h1 align="center">Hi, I'm Unnikrishnan 👋</h1>
+<h1 align="center">Hi, I'm R.Unnikrishnan 👋</h1>
 
 <p align="center">
 🚀 iOS & Flutter Developer | Architecting Scalable Mobile Experiences<br>
@@ -92,3 +81,8 @@ I'm a passionate **iOS Developer** with 2+ years of experience in building clean
 > _“First, solve the problem. Then, write the code.” — John Johnson_
 
 <p align="center">⭐️ Thank you for visiting my profile! ⭐️</p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uk1241&color=0CF7FF&style=flat-square" alt="Visitor Count" />
+</p>
