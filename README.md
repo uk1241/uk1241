@@ -1,53 +1,72 @@
-# 👋 Hi, I'm R. Unnikrishnan
+<h1 align="center">Hi, I'm Unnikrishnan 👋</h1>
 
-🚀 Mobile Developer | 🧠 iOS (Swift, SwiftUI, UIKit) | 🌐 Flutter | 🔧 Firebase | 🎥 AVFoundation | 🔒 REST/GraphQL APIs  
-📍 Based in Kochi, India | 📱 3.5+ years of iOS & Flutter experience | Currently open to opportunities in Bengaluru
-
----
-
-## 🛠️ Tech Stack
-
-- 💻 Languages: **Swift**, Dart, Kotlin, Objective-C  
-- 🧱 Frameworks: **SwiftUI**, UIKit, Flutter, AVFoundation  
-- 🏗️ Architecture: MVVM, Clean Architecture, BLoC  
-- 🔌 API: REST, GraphQL, JSON  
-- 🔒 Auth: Firebase Auth, FCM, OAuth  
-- 🧪 Tools: Xcode, Android Studio, Git, Postman  
-- ☁️ CI/CD: GitHub Actions, TestFlight, Play Console  
+<p align="center">
+🚀 iOS & Flutter Developer | Architecting Scalable Mobile Experiences<br>
+📍 Based in India | Open to Remote & On-Site Roles
+</p>
 
 ---
 
-## 📲 Featured Projects
+## 💼 About Me
 
-### 1. 🧑‍💻 Multi-Camera Video Conferencing App
-Real-time video/audio conferencing app using **WebRTC + Socket.IO**  
-Built native iOS UI in **UIKit**, handled custom AV sessions  
-🔗 [GitHub Repo](https://github.com/unnivr011/video-conference-ios)
+I'm a passionate **iOS Developer** with 2+ years of experience in building clean, intuitive, and scalable apps using **Swift**, **SwiftUI**, and **Flutter**. I enjoy solving real-world problems with elegant mobile solutions and strive to deliver pixel-perfect UIs and robust architecture.
 
----
-
-### 2. 🚚 Fleet Maintenance iOS App
-Offline vehicle damage logging and sync using **CoreData + AVFoundation**  
-Built reusable Swift modules, followed **Clean Architecture**  
-🔗 [App Store Link](#) (Coming soon)
+🔧 **Tech Stack:**
+- 📱 iOS (Swift, UIKit, SwiftUI, Combine)
+- 📱 Flutter (Dart, BLoC, Firebase)
+- 🌐 REST APIs, WebSockets, JSON, GraphQL
+- 🔐 Firebase Auth, Firestore, Push Notifications
+- 🧪 Unit Testing, Crashlytics, CI/CD
+- 🧰 Git, GitHub Actions, Xcode, VSCode
 
 ---
 
-### 3. 👨‍⚕️ Patient Engagement App (Flutter)
-HIPAA-compliant consult/chat app built using **Firebase, Mediasoup**  
-Used Flutter for cross-platform development  
-🔗 [GitHub Repo](https://github.com/unnivr011/patient-chat)
+## 🛠️ Projects
+
+Here are some of my featured works:
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| [**AppsConnect**](https://github.com/uk1241) | Swift + WebRTC + Sockets | Real-time multi-user video calling app |
+| [**Weatherly**](https://github.com/uk1241) | SwiftUI | A clean weather app with location & API integration |
+| [**Routico**](https://github.com/uk1241) | Flutter + Google Maps | Route optimization with multiple stops & live traffic |
+| [**TCA Manager**](https://github.com/uk1241) | Flutter + REST API | CRUD app for managing TCA data, ID/photo upload |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Unnikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uk121&show_icons=true&theme=swift)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uk1241&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uk1241&theme=tokyonight" width="450" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🔗 Connect With Me
 
-- 📧 Email: unnivr011@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/unnikrishnan-ios)  
-- 📍 Currently available for iOS roles in Bengaluru  
+<p align="left">
+  <a href="https://www.linkedin.com/in/unnikrishnanr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:unnikrishnanr8089@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📢 What I'm Learning/Exploring Now
+
+- 🔍 Architecting enterprise-level mobile apps
+- 📈 Advanced DSA in Swift & Dart
+- 🔐 Security in mobile apps
+- ☁️ Cloud integrations & app performance tuning
+
+---
+
+> “First, solve the problem. Then, write the code.” — John Johnson
+
+---
+
+⭐ _Thanks for visiting my profile! Feel free to check out my work or reach out for collaborations._
