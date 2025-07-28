@@ -55,10 +55,10 @@ I'm a passionate **iOS Developer** with 2+ years of experience in building clean
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/unnikrishnanr/" target="_blank">
+  <a href="https://www.linkedin.com/in/r-unnikrishnan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:unnikrishnanr8089@gmail.com">
+  <a href="mailto:unnivr011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
   <a href="https://github.com/uk1241/resume">
